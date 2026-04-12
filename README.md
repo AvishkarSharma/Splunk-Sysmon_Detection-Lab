@@ -33,11 +33,12 @@ This project demonstrates the setup of a telemetry pipeline from a Windows 10 VM
 **What:** Created a summary table of the Nmap scan.
 **Why:** To provide an analyst with a clear view of which ports were targeted by the attacker.
 ![Recon Dashboard](Screenshots/06_dashboard.png)
+![Recon Dashboard](Screenshots/06_dashboard2.png)
 
 ### 7. Adversary Correlation
 **What:** Linked network events (ID 3) with logon events (ID 4624).
 **Why:** This proves the "Smoking Gun"—the attacker moved from scanning to a successful system login.
-![Correlation](Screenshots/07_correlation.png)
+![Correlation](Screenshots/07_logs.png)
 
 ### 8. Final SOC Overview
 **What:** A consolidated Master Dashboard.
