@@ -47,5 +47,5 @@ This project demonstrates the setup of a telemetry pipeline from a Windows 10 VM
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 This lab successfully mapped the "Reconnaissance" and "Initial Access" stages of the Cyber Kill Chain. It proves proficiency in endpoint monitoring, SIEM engineering, and log correlation.
